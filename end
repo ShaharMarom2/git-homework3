@@ -1,0 +1,42 @@
+[33mcommit f091577acecbbf481fff44232cf3c8c3781e96e9[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: d3acdc4 d53abbf
+Author: Shahar Marom <srm8521@gmail.com>
+Date:   Tue Nov 1 01:00:45 2022 +0200
+
+    Merge branch 'feature-v1.01'
+
+[33mcommit d3acdc46723478424af4b41f96c57ccdd57b6108[m[33m ([m[1;32mbug-fix[m[33m)[m
+Author: Shahar Marom <srm8521@gmail.com>
+Date:   Tue Nov 1 00:47:40 2022 +0200
+
+    Added log
+
+[33mcommit d53abbf661d6a11b52252461e790e99bc9202253[m[33m ([m[1;32mfeature-v1.01[m[33m)[m
+Author: Shahar Marom <srm8521@gmail.com>
+Date:   Tue Nov 1 00:43:42 2022 +0200
+
+    Feature update
+
+[33mcommit 890c9facc9c142007722dd4c09fd4fb907dadbda[m
+Author: Shahar Marom <srm8521@gmail.com>
+Date:   Tue Nov 1 00:32:27 2022 +0200
+
+    First feature
+
+[33mcommit 81c1843dccd8d9df02c0a47ccdc36f7ffec8a986[m[33m ([m[1;33mtag: v1.2[m[33m)[m
+Author: Shahar Marom <srm8521@gmail.com>
+Date:   Sun Oct 23 20:26:47 2022 +0300
+
+    Third Html
+
+[33mcommit 6f72d726de5cb374b30f219a7a71518cfd6f4301[m[33m ([m[1;33mtag: v1.1[m[33m, [m[1;33mtag: v1.0[m[33m)[m
+Author: Shahar Marom <srm8521@gmail.com>
+Date:   Sun Oct 23 20:20:20 2022 +0300
+
+    Second Html
+
+[33mcommit e0eec96fd3fec0429f5798a26e2863f7cffc5477[m[33m ([m[1;33mtag: v0.1[m[33m)[m
+Author: Shahar Marom <srm8521@gmail.com>
+Date:   Sun Oct 23 20:10:48 2022 +0300
+
+    First Html
